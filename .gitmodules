@@ -1,0 +1,13 @@
+[submodule "KLEE"]
+	path = KLEE
+	url = git@github.com:mhlabCodingTeam/KLEE.git
+[submodule "auxiliaryMethods2"]
+	path = auxiliaryMethods2
+	url = git@github.com:mhlabCodingTeam/auxiliaryMethods.git
+[submodule "active"]
+	path = active
+	url = git@github.com:mhlabCodingTeam/active.git
+
+[submodule "extern/cell2csv"]
+	path = extern/cell2csv
+	url = https://gist.github.com/5823346.git
